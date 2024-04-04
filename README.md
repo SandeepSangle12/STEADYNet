@@ -1,6 +1,6 @@
-# LUCIDNet-for-EEG-signal-AD-and-FTD-dataset
-LUCIDNet: Low Complexity Unified CNN model for Improving Dementia Detection
+# STEADYNet-for-EEG-signal-AD-and-FTD-dataset
+STEADYNet: Low Complexity Unified CNN model for Improving Dementia Detection
 # LCADNet
-A novel and efficient AD and FTD detection model using a five layer convolution neural network (LCADNet).
+The efficiency of the proposed STEADYNet exhibits the lowest computation complexity in terms of both the number of floating point operations and inference time using publicaly available datasets. STEADYNet outperforms existing EEG-based AD detection systems with an accuracy of $99.29\%$ while having the least number of trainable parameters. The proposed STEADYNet is a valuable aid for neurologists.
 
-P. H. Kachare, D. V. Puri, S. B Sangle,  "LUCIDNet: Low Complexity Unified CNN model for Improving Dementia Detection" [under review].
+P. H. Kachare, D. V. Puri, S. B Sangle,  "STEADYNet: Spatiotemporal EEG Analysis for Dementia Detection with Convolutional Neural Networks" [under review].
